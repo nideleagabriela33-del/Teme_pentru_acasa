@@ -1,0 +1,9 @@
+Pentru o ofertă estimativă sunt necesare informații precum:
+- tipul proiectului;
+- numărul de pagini sau module;
+- funcționalitățile dorite;
+- existența unui design;
+- integrarea cu alte sisteme;
+- termenul estimat de livrare.
+
+Ofertele generate automat sunt orientative și nu reprezintă un contract final.
